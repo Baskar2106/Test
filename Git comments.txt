@@ -1,0 +1,30 @@
+git --version 
+git config --list
+git user name
+git email
+git init 
+staging and commit
+
+ 
+
+git add file.txt
+git add .
+
+ 
+
+git commit
+git commit -m
+git commit -am
+
+ 
+
+git status
+git log
+git diff
+
+ 
+
+Restoring changes
+==================
+git restore hello.txt -- to discard changes in working directory
+git restore --stage hello.txt
