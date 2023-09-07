@@ -28,3 +28,5 @@ Restoring changes
 ==================
 git restore hello.txt -- to discard changes in working directory
 git restore --stage hello.txt
+
+git log --pretty=oneline
